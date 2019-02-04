@@ -1,0 +1,10 @@
+PortalCursosAPI/App_Data
+PortalCursosAPI/Migrations
+PortalCursosAPI/bin
+PortalCursosAPI/obj
+PortalCursosAPI/Properties
+PortalCursosAPI/*.asax
+PortalCursosAPI/*.config
+PortalCursosAPI/*.csproj
+PortalCursosAPI/*.user
+PortalCursosAPI/Global.asax
